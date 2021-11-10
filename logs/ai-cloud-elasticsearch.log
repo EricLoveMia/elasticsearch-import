@@ -1,0 +1,2 @@
+[2021-03-10 15:46:43.654+0800] [main] INFO  c.c.e.ElsticsearchApplicationTests [55]- Starting ElsticsearchApplicationTests on YCKJ2725 with PID 29232 (started by YCKJ2725 in D:\workplaces\elsticsearch)
+[2021-03-10 15:46:43.676+0800] [main] INFO  c.c.e.ElsticsearchApplicationTests [651]- No active profile set, falling back to default profiles: default

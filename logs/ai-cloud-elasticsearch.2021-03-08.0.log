@@ -1,0 +1,8 @@
+[2021-03-08 17:47:13.160+0800] [background-preinit] DEBUG o.h.v.m.ResourceBundleMessageInterpolator [89]- Loaded expression factory via original TCCL
+[2021-03-08 17:47:13.366+0800] [main] INFO  c.c.e.ElsticsearchApplicationTests [55]- Starting ElsticsearchApplicationTests on YCKJ2725 with PID 19508 (started by YCKJ2725 in D:\workplaces\elsticsearch)
+[2021-03-08 17:47:13.368+0800] [main] INFO  c.c.e.ElsticsearchApplicationTests [651]- No active profile set, falling back to default profiles: default
+[2021-03-08 17:47:22.425+0800] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor [181]- Initializing ExecutorService 'applicationTaskExecutor'
+[2021-03-08 17:47:22.868+0800] [main] INFO  o.s.s.c.ThreadPoolTaskScheduler [181]- Initializing ExecutorService 'taskScheduler'
+[2021-03-08 17:47:22.924+0800] [main] INFO  c.c.e.ElsticsearchApplicationTests [61]- Started ElsticsearchApplicationTests in 10.513 seconds (JVM running for 11.779)
+[2021-03-08 17:47:23.333+0800] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskScheduler [218]- Shutting down ExecutorService 'taskScheduler'
+[2021-03-08 17:47:23.355+0800] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor [218]- Shutting down ExecutorService 'applicationTaskExecutor'
